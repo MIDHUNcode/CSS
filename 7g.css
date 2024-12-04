@@ -1,0 +1,23 @@
+.b{
+  border: none;
+  width: 300px;
+  font-size: 18px;
+  vertical-align: middle;
+}
+.a{
+  border-radius: 600px;
+  width: 60px;
+  height: 60px;
+  object-position: center;
+  object-fit: cover;
+  vertical-align: middle;
+}
+.c{
+  font-weight: bold;
+  border: none;
+  color: white;
+  background-color: rgb(59, 125, 218);
+  padding: 8px 15px;
+  border-radius: 16px;
+  vertical-align: middle;
+}
