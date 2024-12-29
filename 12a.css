@@ -1,0 +1,12 @@
+.a{
+  display: flex;
+  flex-direction: row;
+}
+.a1{
+  background-color: lightblue;
+  width: 200px;
+}
+.a2{
+  background-color: lightpink;
+  width: 75px;
+}
