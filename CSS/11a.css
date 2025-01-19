@@ -1,0 +1,10 @@
+.a{
+  display: grid;
+  grid-template-columns: 200px 75px;
+}
+.blu{
+  background-color: lightblue;
+}
+.pin{
+  background-color: lightpink;
+}

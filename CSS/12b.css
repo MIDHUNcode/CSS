@@ -1,0 +1,16 @@
+.a{
+  display: flex;
+  flex-direction: row;
+}
+.a1{
+  width: 50px;
+  background-color: lightblue;
+}
+.a2{
+  background-color: lightpink;
+  flex: 1
+}
+.a3{
+  width: 75px;
+  background-color: lightblue;
+}

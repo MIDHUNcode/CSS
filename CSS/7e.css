@@ -1,0 +1,8 @@
+.a{
+  border: none;
+  box-shadow: 5px 5px 10px gray;
+  width: 300px;
+  height: 25px;
+  text-align: center;
+  border-radius: 15px;
+}
