@@ -1,0 +1,27 @@
+body {
+  height: 3000px;
+}
+
+div {
+  position: relative;
+  display: inline-block;
+}
+
+.a {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.b {
+  position: absolute;
+  top: 10px;
+  right: 0px;
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
